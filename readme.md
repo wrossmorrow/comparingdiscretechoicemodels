@@ -1,0 +1,2 @@
+
+These are some notebooks in support of my [Stanford ICME presentation](https://docs.google.com/presentation/d/1NAkj0c1H5kCUv64mC1v8n3oH56OmHViUlNSkSSnIe-k/edit) on `idLogit`. I would start with [Comparing Discrete Choice Models](Comparing\ Discrete\ Choice\ Models.ipynb)
